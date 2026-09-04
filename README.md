@@ -1,195 +1,142 @@
-<h1 align="center">Hi 👋, I'm Chetan Pratap Singh</h1>
+# Hi 👋, I'm Chetan Pratap Singh
 
-<p align="center">
+### 🤖 AI Engineer | NLP | LLMs | Backend Engineering | Java | Spring Boot
+
+<p align="left">
   <a href="https://github.com/chetanthakur39">
-    <img src="https://komarev.com/ghpvc/?username=chetanthakur39&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=chetanthakur39&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+NLP+Engineer+in+Progress;LLM+Explorer;PyTorch+%7C+NLP+%7C+AI+Applications;Backend+%26+Java+Developer;Building+Intelligent+Real-World+Systems" alt="Typing SVG" />
-</p>
+I'm a Computer Science & Engineering (Data Science) undergraduate passionate about
+building **AI-powered applications, NLP systems, LLM technologies, and scalable backend systems**.
 
-<p align="center">
-  <b>AI / NLP | LLMs | Backend Engineering | Java | Spring Boot</b>
-</p>
+I enjoy working at the intersection of **Artificial Intelligence + Software Engineering**, 
+from understanding natural language to building APIs and production-oriented backend systems.
 
----
+🎯 Currently focused on:
 
-## 👨‍💻 About Me
+- 🤖 AI / ML Engineering
+- 🧠 Natural Language Processing
+- 🔤 LLM & Transformer Fundamentals
+- 🐍 Python & PyTorch
+- ☕ Java & Spring Boot
+- 🌐 REST API Development
+- 🗄️ MySQL & Backend Systems
+- 🚀 Building intelligent real-world applications
 
-I'm a Computer Science undergraduate specializing in Data Science with a strong interest in **Artificial Intelligence, Natural Language Processing, Large Language Models, and Backend Engineering**.
-
-I enjoy understanding how AI systems work internally and turning those concepts into practical applications.
-
-Currently, I'm focused on:
-
-- 🧠 Building and understanding **LLMs from scratch**
-- 🤖 Developing **NLP-based intelligent applications**
-- 🔤 Working with **tokenization, BPE, embeddings, and Transformer concepts**
-- 🐍 Building AI systems using **Python and PyTorch**
-- ☕ Developing scalable backend applications using **Java and Spring Boot**
-- 🔗 Integrating AI models with **REST APIs and backend services**
-- 📚 Strengthening **Data Structures & Algorithms and System Design**
 
 ---
 
-# 🚀 Technical Skills
+# 🧠 AI / ML & NLP
 
-### 🤖 Artificial Intelligence & NLP
+<p align="left">
 
-- Python
-- PyTorch
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- LLM Fundamentals
-- Transformer Architecture
-- Self-Attention
-- Tokenization
-- Byte Pair Encoding (BPE)
-- Embeddings
-- Language Model Training
-- Intent Classification
-- Fuzzy Matching
-- Generative AI
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Fundamentals-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Self--Attention-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tokenization-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BPE-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intent%20Classification-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fuzzy%20Matching-00838F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language%20Model%20Training-E65100?style=for-the-badge"/>
 
-### ☕ Backend Development
+</p>
 
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- JDBC
-- Hibernate
-- Maven
 
-### 🗄️ Databases
+---
 
-- MySQL
+# ☕ Backend Engineering
 
-### 🌐 Frontend Development
+<p align="left">
 
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
-### 🧠 Computer Science
+</p>
+
+
+---
+
+# 🗄️ Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
+
+
+---
+
+# 🌐 Web Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+
+---
+
+# 🧰 Tools & Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+
+---
+
+# 💻 Core Computer Science
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Problem Solving
-- Exception Handling
 - Java Collections
-- System Design Fundamentals
+- Exception Handling
+- Problem Solving
+- Software Engineering Fundamentals
+- Database Fundamentals
+- REST API Design
 
-### 🛠️ Tools
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Maven
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🧠 AI-Powered Telecom Neighbour Management System
+## 🤖 AI-Powered Telecom Neighbour Management System
 
-A domain-specific AI system designed to automate telecom neighbour management through natural language interaction.
+### ⭐ Internship Project | AI + NLP + Telecom Automation
 
-### What I Built
+A domain-specific AI system designed to simplify telecom **Neighbour Management operations** through natural-language interaction.
 
-- 🤖 Developed an AI chatbot capable of understanding natural-language telecom commands.
-- 🧠 Implemented NLP-based **intent classification** for different neighbour-management operations.
-- 🔤 Added **fuzzy matching** to handle spelling variations and imperfect user inputs.
-- 🎯 Implemented confidence-based handling for uncertain State and JC identification.
-- 🔄 Added **multi-turn conversation context** using session-based conversation history.
-- 📊 Implemented neighbour validation and analysis workflows including **PCI and TAC validation**.
-- 🛡️ Designed safety-controlled cleanup workflows with minimum-neighbour retention rules.
-- 🧹 Added cleanup preview functionality before destructive operations.
-- 📚 Designed a verified conversation-history pipeline for future model retraining and continuous improvement.
-
-**Tech Stack:** Python, PyTorch, NLP, REST APIs, Fuzzy Matching, MySQL
-
----
-
-## 🧠 LLM From Scratch
-
-A learning and experimentation project focused on understanding the internal architecture and training workflow of Large Language Models.
-
-### Areas Explored
-
-- Tokenization
-- Vocabulary construction
-- Byte Pair Encoding (BPE)
-- Embeddings
-- Next-token prediction
-- Language model training
-- Transformer architecture
-- Self-attention
-- Text generation
-
-**Tech Stack:** Python, PyTorch
-
----
-
-## ⚖️ Calmify – AI-Powered Mental Wellness Platform
-
-A full-stack platform designed for tracking and analyzing user wellness data.
-
-### Key Features
-
-- 🔐 Secure authentication and authorization using Spring Security and JWT
-- 📊 Personalized wellness dashboard
-- 📝 Mood tracking and history management
-- 📈 Historical mood analytics and visualizations
-- 🔗 RESTful backend services
-- 🗄️ Persistent data management using MySQL
-
-**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, REST APIs, JavaScript, Chart.js
-
----
-
-# 📚 Currently Learning
-
-- Advanced LLM Architecture
-- Transformer Models
-- NLP Systems
-- Generative AI
-- LLM Application Development
-- AI Agent Architecture
-- Model Training & Evaluation
-- Microservices
-- System Design
-- Advanced Spring Boot
-
----
-
-# 🎯 Career Focus
-
-I'm working toward becoming an **AI Engineer / AI-ML Engineer** with strong backend engineering capabilities.
-
-My goal is to build intelligent systems that combine:
+The system allows users to communicate with telecom operations through commands such as:
 
 ```text
-        Artificial Intelligence
-                 │
-        ┌────────┴────────┐
-        │                 │
-       NLP               LLMs
-        │                 │
-        └────────┬────────┘
-                 │
-          AI Applications
-                 │
-          ┌──────┴──────┐
-          │             │
-       Backend       Databases
-          │             │
-          └──────┬──────┘
-                 │
-          Real-World Systems
+"Validate neighbours in Odisha JC_Bhubaneswar"
+
+"Show invalid neighbours in Madhya Pradesh JC_Bhopal"
+
+"Preview cleanup for Maharashtra JC_Mumbai"
+
+"Start cleanup for Kerala JC_Kochi"

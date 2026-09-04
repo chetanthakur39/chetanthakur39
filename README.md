@@ -1,124 +1,195 @@
-<h1 align="center">Hi 👋, I'm Chatan Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Chetan Pratap Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;AI+%26+LLM+Explorer;Backend+Developer;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/chetanthakur39">
+    <img src="https://komarev.com/ghpvc/?username=chetanthakur39&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-### **Java Developer | Spring Boot Enthusiast | AI  Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+NLP+Engineer+in+Progress;LLM+Explorer;PyTorch+%7C+NLP+%7C+AI+Applications;Backend+%26+Java+Developer;Building+Intelligent+Real-World+Systems" alt="Typing SVG" />
+</p>
 
-Computer Science student passionate about Backend Development, Artificial Intelligence, and solving real-world problems through technology. I enjoy building scalable applications using Java and Spring Boot while continuously strengthening my Data Structures & Algorithms, Object-Oriented Programming, and System Design skills.
+<p align="center">
+  <b>AI / NLP | LLMs | Backend Engineering | Java | Spring Boot</b>
+</p>
 
 ---
 
-## **🚀 Technical Skills**
+## 👨‍💻 About Me
 
-### **Programming**
+I'm a Computer Science undergraduate specializing in Data Science with a strong interest in **Artificial Intelligence, Natural Language Processing, Large Language Models, and Backend Engineering**.
+
+I enjoy understanding how AI systems work internally and turning those concepts into practical applications.
+
+Currently, I'm focused on:
+
+- 🧠 Building and understanding **LLMs from scratch**
+- 🤖 Developing **NLP-based intelligent applications**
+- 🔤 Working with **tokenization, BPE, embeddings, and Transformer concepts**
+- 🐍 Building AI systems using **Python and PyTorch**
+- ☕ Developing scalable backend applications using **Java and Spring Boot**
+- 🔗 Integrating AI models with **REST APIs and backend services**
+- 📚 Strengthening **Data Structures & Algorithms and System Design**
+
+---
+
+# 🚀 Technical Skills
+
+### 🤖 Artificial Intelligence & NLP
+
+- Python
+- PyTorch
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- LLM Fundamentals
+- Transformer Architecture
+- Self-Attention
+- Tokenization
+- Byte Pair Encoding (BPE)
+- Embeddings
+- Language Model Training
+- Intent Classification
+- Fuzzy Matching
+- Generative AI
+
+### ☕ Backend Development
+
 - Java
-- JavaScript
-
-### **Core Computer Science**
-- Data Structures & Algorithms (DSA)
-- Problem Solving
-- Object-Oriented Programming (OOP)
-
-### **OOP Concepts**
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-
-### **Backend Development**
 - Spring Boot
+- Spring Security
 - REST APIs
+- JWT Authentication
 - JDBC
 - Hibernate
 - Maven
 
-### **Database**
+### 🗄️ Databases
+
 - MySQL
 
-### **Tools & Platforms**
+### 🌐 Frontend Development
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+### 🧠 Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Exception Handling
+- Java Collections
+- System Design Fundamentals
+
+### 🛠️ Tools
+
 - Git
 - GitHub
-- Postman
-- IntelliJ IDEA
 - VS Code
-
-### **Deployment**
-- Vercel
-- GitHub Pages
-
-### **Artificial Intelligence**
-- Generative AI
-- Large Language Models (LLMs)
-- AI-Powered Applications
-- Prompt Engineering
+- IntelliJ IDEA
+- Postman
+- Maven
 
 ---
 
-## **🌱 Currently Learning**
+# 🔥 Featured Projects
 
-- Spring Boot Advanced Concepts
-- Microservices Architecture
-- System Design
-- Machine Learning
+## 🧠 AI-Powered Telecom Neighbour Management System
+
+A domain-specific AI system designed to automate telecom neighbour management through natural language interaction.
+
+### What I Built
+
+- 🤖 Developed an AI chatbot capable of understanding natural-language telecom commands.
+- 🧠 Implemented NLP-based **intent classification** for different neighbour-management operations.
+- 🔤 Added **fuzzy matching** to handle spelling variations and imperfect user inputs.
+- 🎯 Implemented confidence-based handling for uncertain State and JC identification.
+- 🔄 Added **multi-turn conversation context** using session-based conversation history.
+- 📊 Implemented neighbour validation and analysis workflows including **PCI and TAC validation**.
+- 🛡️ Designed safety-controlled cleanup workflows with minimum-neighbour retention rules.
+- 🧹 Added cleanup preview functionality before destructive operations.
+- 📚 Designed a verified conversation-history pipeline for future model retraining and continuous improvement.
+
+**Tech Stack:** Python, PyTorch, NLP, REST APIs, Fuzzy Matching, MySQL
+
+---
+
+## 🧠 LLM From Scratch
+
+A learning and experimentation project focused on understanding the internal architecture and training workflow of Large Language Models.
+
+### Areas Explored
+
+- Tokenization
+- Vocabulary construction
+- Byte Pair Encoding (BPE)
+- Embeddings
+- Next-token prediction
+- Language model training
+- Transformer architecture
+- Self-attention
+- Text generation
+
+**Tech Stack:** Python, PyTorch
+
+---
+
+## ⚖️ Calmify – AI-Powered Mental Wellness Platform
+
+A full-stack platform designed for tracking and analyzing user wellness data.
+
+### Key Features
+
+- 🔐 Secure authentication and authorization using Spring Security and JWT
+- 📊 Personalized wellness dashboard
+- 📝 Mood tracking and history management
+- 📈 Historical mood analytics and visualizations
+- 🔗 RESTful backend services
+- 🗄️ Persistent data management using MySQL
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, REST APIs, JavaScript, Chart.js
+
+---
+
+# 📚 Currently Learning
+
+- Advanced LLM Architecture
+- Transformer Models
+- NLP Systems
 - Generative AI
 - LLM Application Development
+- AI Agent Architecture
+- Model Training & Evaluation
+- Microservices
+- System Design
+- Advanced Spring Boot
 
 ---
 
-## 🚀 Tech Stack
+# 🎯 Career Focus
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+I'm working toward becoming an **AI Engineer / AI-ML Engineer** with strong backend engineering capabilities.
 
-![Data Structures](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF6F00?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
+My goal is to build intelligent systems that combine:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-00A67E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-## **💻 Featured Projects**
-
-### 🏆 VidyaLink – Smart India Hackathon (SIH)
-
-An online attendance management system designed for rural schools to improve student attendance tracking, reduce manual record-keeping, and enable better monitoring by teachers and school administrators.
-
-**Key Features:**
-- Digital attendance management
-- Student record tracking
-- Teacher dashboard
-- Attendance reports and analytics
-- Rural school focused solution
-### **⚖️ LegalTech Platform**
-Technology-driven platform focused on simplifying legal services and improving accessibility through digital solutions.
-
-### **🧠 Calmify**
-AI-powered mental wellness platform featuring mood tracking, stress detection, wellness resources, and community engagement.
- 
-
----
-
-## **🎯 Career Goal**
-
-To become a Software Engineer specializing in Backend Development, Artificial Intelligence, and Large Language Model (LLM) applications while building impactful products that solve real-world challenges.
+```text
+        Artificial Intelligence
+                 │
+        ┌────────┴────────┐
+        │                 │
+       NLP               LLMs
+        │                 │
+        └────────┬────────┘
+                 │
+          AI Applications
+                 │
+          ┌──────┴──────┐
+          │             │
+       Backend       Databases
+          │             │
+          └──────┬──────┘
+                 │
+          Real-World Systems
